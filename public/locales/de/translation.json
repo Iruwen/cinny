@@ -812,7 +812,7 @@
             "SSOButtons": {
                 "login_with": "Anmeldung mit {{idp_name}}"
             }
-        }
+        },
         "Templates": {
             "Auth": {
                 "loading_homeserver_list": "Lade Liste der Homeserver...",
